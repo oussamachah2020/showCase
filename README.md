@@ -15,31 +15,31 @@
 
 - in the [Site](https://show-case-three.vercel.app/) click on Expo store button
 
-<p align="center">
+<p align="left">
   <img src="https://user-images.githubusercontent.com/72669865/231011453-3dc783cb-2275-402a-99da-3436469c506c.png" alt="screen"/>
 </p>
 
 it will direct you to the following site, that shows a QR code
 
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/72669865/231011620-8568794e-4cd7-47f4-81b6-c621e37f6dc8.png" alt="screen"/>
+  <img src="https://user-images.githubusercontent.com/72669865/231012679-46527c9c-a8da-4fb2-9da3-6fa5b6d4749a.jpg" alt="screen"/>
 </p>
 
-here is the app interface
-<p align="center">
+> here is the app interface
+<p align="left">
   <img src="https://user-images.githubusercontent.com/72669865/231012099-06835521-9165-46ba-a923-4bc7fb08a687.jpg" alt="screen"/>
 </p>
 
 - open the expo app that you installed on you phone, and click on `scan the QR code`
 
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/72669865/231012184-17c28cb7-9af7-46a5-86ce-690a49774c18.jpg" alt="screen"/>
+  <img src="https://user-images.githubusercontent.com/72669865/231012771-2542c8eb-bd0b-4d0d-a77d-e500877068b2.jpg" alt="screen"/>
 </p>
 
 and scan the QR code on the site.
 
 - after a some minute the app with be shown as the following:
-<p align="center">
+<p align="left">
   <img src="https://user-images.githubusercontent.com/72669865/231012338-97a5bc0f-de68-4b33-b91a-53ba5c18703f.jpg" alt="screen"/>
 </p>
 
