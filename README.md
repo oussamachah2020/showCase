@@ -4,6 +4,8 @@
   <img src="https://user-images.githubusercontent.com/72669865/230992322-88ed17db-a056-4751-a302-14737584e737.png" alt="screen"/>
 </p>
 
+> Visit in [showCase](https://show-case-three.vercel.app/)
+
 ## Available Scripts
 
 In the project directory, you can run:
