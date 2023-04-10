@@ -1,6 +1,9 @@
-# Getting Started with Create React App
+# The Landing page for the [Nerf](https://github.com/oussamachah2020/proNerf) application
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/72669865/230990373-9294dd8b-21f2-47ce-b94d-a76402c956ed.png" alt="screen"/>
+</p>
+
 
 ## Available Scripts
 
