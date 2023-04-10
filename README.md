@@ -21,19 +21,14 @@
 
 it will direct you to the following site, that shows a QR code
 
-<p align="center">
-  <img src="https://user-images.githubusercontent.com/72669865/231012679-46527c9c-a8da-4fb2-9da3-6fa5b6d4749a.jpg" alt="screen"/>
-</p>
-
-> here is the app interface
 <p align="left">
-  <img src="https://user-images.githubusercontent.com/72669865/231012099-06835521-9165-46ba-a923-4bc7fb08a687.jpg" alt="screen"/>
+  <img src="https://user-images.githubusercontent.com/72669865/231013248-e8366d20-0f2e-43b4-8066-c11ed3c0d0a4.png" alt="screen"/>
 </p>
 
 - open the expo app that you installed on you phone, and click on `scan the QR code`
 
-<p align="center">
-  <img src="https://user-images.githubusercontent.com/72669865/231012771-2542c8eb-bd0b-4d0d-a77d-e500877068b2.jpg" alt="screen"/>
+<p align="left">
+  <img src="https://user-images.githubusercontent.com/72669865/231013338-38dad66c-e6de-4740-bede-121ae7459849.jpg" alt="screen"/>
 </p>
 
 and scan the QR code on the site.
