@@ -1,9 +1,8 @@
 # The Landing page for the [Nerf](https://github.com/oussamachah2020/proNerf) application
 
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/72669865/230990373-9294dd8b-21f2-47ce-b94d-a76402c956ed.png" alt="screen"/>
+  <img src="https://user-images.githubusercontent.com/72669865/230992322-88ed17db-a056-4751-a302-14737584e737.png" alt="screen"/>
 </p>
-
 
 ## Available Scripts
 
